@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674700894 source:c:\users\vinij\onedrive\Área de trabalho\study\c lang\third\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
